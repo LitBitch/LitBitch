@@ -12,3 +12,7 @@ Still woorking and refining but stable!
  keep adding things, I wanted the visual and loading stable first
  mostly just basic functions and logic
 
+ Vroom powered scenerio https://play.aidungeon.com/scenario/cTTLl3FPLefH/so-many-engines-vroom-v3?share=true
+ LitBitch powered scenerio https://play.aidungeon.com/scenario/4IwwRidkhK76/litbitch?share=true
+ Discord for feedback if you want: shortstoner.
+
