@@ -9,6 +9,6 @@ Still woorking and refining but stable!
  And Output Tabs! Just Put Thim In The One They Say 🐱‍🏍
  LitBitch is a total rebuild I'm working on making math
  and words work together to show visually. So I have to
- keep adding things, I mostly wanted the visual and loading
+ keep adding things, I wanted the visual and loading stable first
  mostly just basic functions and logic
 
