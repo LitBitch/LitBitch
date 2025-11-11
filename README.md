@@ -1,7 +1,7 @@
 👋 Words and shit!
 
 AI Dungeon Scripts!
-Visuals and Words That make do things!
+Visuals and Words That maybe do things!
 Check Your Pockets! (StoryCards)
 Still woorking and refining but stable!
  LitBitch & Vroom are for your Library Tab!
