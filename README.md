@@ -14,5 +14,5 @@ Still woorking and refining but stable!
 
  Vroom powered scenerio https://play.aidungeon.com/scenario/cTTLl3FPLefH/so-many-engines-vroom-v3?share=true
  LitBitch powered scenerio https://play.aidungeon.com/scenario/4IwwRidkhK76/litbitch?share=true
- Discord for feedback if you want: @shortstoner.
+ Discord for feedback if you want:AI Dungeon server, Script-library, So Many Engines Vroom!  @shortstoner.
 
